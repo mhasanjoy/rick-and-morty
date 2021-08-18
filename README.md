@@ -6,4 +6,4 @@ A simple website created by using
 - `Bootstrap`
 - `GraphQL`
 
-## [Live Site]()
+## [Live Site](https://rick-and-morty-phi-kohl.vercel.app/)
