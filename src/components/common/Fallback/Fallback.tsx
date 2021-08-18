@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Fallback = () => {
     return (
         <div className="mt-5 text-center">

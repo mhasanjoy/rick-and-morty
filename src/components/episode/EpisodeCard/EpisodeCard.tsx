@@ -1,4 +1,3 @@
-import React from 'react';
 import './EpisodeCard.css';
 
 const EpisodeCard = (props: any) => {

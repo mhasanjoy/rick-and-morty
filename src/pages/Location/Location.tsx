@@ -12,7 +12,7 @@ const Location = () => {
             loading && <Fallback />
         }
         {
-            error && <h1 className="text-center">Error</h1>
+            error && <h1 className="text-center mt-5">Error</h1>
         }
             <Locations data={data} />
         </>

@@ -19,7 +19,7 @@ const CharacterCard = (props: any) => {
                     <p><strong>Location:</strong> {location.name}</p>
                     <p><strong>Episodes: </strong></p>
                     {
-                        episode.map((ep: any, index: number) =><span key={index}>{ep.episode}, </span>)
+                        episode.map((ep: any, index: number) => <span key={index}>{ep.episode}, </span>)
                     }
                     <br /><br />
                     <p><strong>Created:</strong> {created}</p>

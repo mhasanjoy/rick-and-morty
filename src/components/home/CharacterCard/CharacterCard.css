@@ -1,8 +1,9 @@
-.character{
+.character {
     box-shadow: 5px 5px 15px gray;
     border-radius: 5px;
     min-height: 160vh;
 }
-.character img{
+
+.character img {
     padding: 15px;
 }

@@ -1,4 +1,3 @@
-import React from 'react';
 import './LocationCard.css';
 
 const LocationCard = (props: any) => {

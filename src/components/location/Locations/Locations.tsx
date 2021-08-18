@@ -8,7 +8,7 @@ const Locations = (props: any) => {
             <main className="row g-5 text-center d-flex justify-content-center">
                 {
                     locations && locations.map((location: any) => <LocationCard key={location.id} location={location} />)
-                } 
+                }
             </main>
         </div>
     );
